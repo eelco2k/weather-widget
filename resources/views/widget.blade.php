@@ -40,7 +40,7 @@
                         {{-- Humidity --}}
                         <div class="flex items-center gap-2">
                             <x-filament::icon icon="weather-humidity"
-                                class="h-10 w-10 text-gray-500 dark:text-gray-400" />
+                                class="h-8 w-8 text-gray-500 dark:text-gray-400" />
                             <span class="text-sm font-semibold">{{ __('Humidity') }}: {{ $humidity }}% RH</span>
                         </div>
 
