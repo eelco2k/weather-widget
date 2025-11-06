@@ -123,9 +123,24 @@ Once the widget is registered, a "Weather Widget" will automatically be added to
 
 ### Available Icon Sets
 
-- `fill` - Filled icons
-- `line` - Outlined icons
-- `monochrome` - Black/White icons
+- `fill` – Filled icons
+- `line` – Outlined icons
+- `monochrome` – Black/White icons
+
+#### 🎨 `fill` – Filled Icons
+| Light Mode                                | Dark Mode                               |
+|-------------------------------------------|-----------------------------------------|
+| ![Fill Light](docs/images/fill-light.jpg) | ![Fill Dark](docs/images/fill-dark.jpg) |
+
+#### ✏️ `line` – Outlined Icons
+| Light Mode                                | Dark Mode                                |
+|-------------------------------------------|------------------------------------------|
+| ![Line Light](docs/images/line-light.jpg) | ![Line Dark](docs/images/line-dark.jpg)  |
+
+#### 🌓 `monochrome` – Black & White Icons
+| Light Mode                                       | Dark Mode                                        |
+|--------------------------------------------------|--------------------------------------------------|
+| ![Monochrome Light](docs/images/monochrome-light.jpg) | ![Monochrome Dark](docs/images/monochrome-dark.jpg) |
 
 ### Available Icon Variants
 Static and Animated (only for fill/line icons)
